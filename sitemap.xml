@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <url>
+    <loc>https://viknasystemy.ua/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://viknasystemy.ua/" />
+    <xhtml:link rel="alternate" hreflang="ru-UA" href="https://viknasystemy.ua/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viknasystemy.ua/" />
+  </url>
+  <url>
+    <loc>https://viknasystemy.ua/ru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://viknasystemy.ua/" />
+    <xhtml:link rel="alternate" hreflang="ru-UA" href="https://viknasystemy.ua/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viknasystemy.ua/" />
+  </url>
+</urlset>

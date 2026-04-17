@@ -1,0 +1,15 @@
+<svg viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.000000" height="52.000000" fill="none" customFrame="url(#clipPath_0)">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="52.000000" height="52.000000" x="0.000000" y="0.000000" rx="12.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_1">
+			<rect width="40.000000" height="40.000000" x="5.500000" y="6.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Frame 2" width="52.000000" height="52.000000" x="0.000000" y="0.000000" rx="12.000000" fill="rgb(70.125,63.75,255)" />
+	<g id="dock_to_left_42dp_E3E3E3_FILL0_wght400_GRAD0_opsz40 1" clip-path="url(#clipPath_1)" customFrame="url(#clipPath_1)">
+		<rect id="dock_to_left_42dp_E3E3E3_FILL0_wght400_GRAD0_opsz40 1" width="40.000000" height="40.000000" x="5.500000" y="6.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+		<path id="Vector" d="M13.2779 41C12.514 41 11.86 40.7281 11.3158 40.1842C10.7719 39.64 10.5 38.986 10.5 38.2221L10.5 13.7779C10.5 13.014 10.7719 12.36 11.3158 11.8158C11.86 11.2719 12.514 11 13.2779 11L37.7221 11C38.486 11 39.14 11.2719 39.6842 11.8158C40.2281 12.36 40.5 13.014 40.5 13.7779L40.5 38.2221C40.5 38.986 40.2281 39.64 39.6842 40.1842C39.14 40.7281 38.486 41 37.7221 41L13.2779 41ZM31.9721 38.2221L37.7221 38.2221L37.7221 13.7779L31.9721 13.7779L31.9721 38.2221ZM29.1946 38.2221L29.1946 13.7779L13.2779 13.7779L13.2779 38.2221L29.1946 38.2221Z" fill="rgb(227,227,227)" fill-rule="nonzero" />
+	</g>
+</svg>
